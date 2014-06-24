@@ -1,0 +1,5 @@
+Generirane na random HEX chisla
+Izmislqne na uslovie
+pisane v C file i izpulnqvaneto mu 
+Printirane na uslovieto v conzolata
+Printirane na otgovora v conzolata
